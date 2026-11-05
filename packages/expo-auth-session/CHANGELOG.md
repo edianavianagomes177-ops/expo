@@ -1,5 +1,14 @@
 # Changelog
 
+## 58.0.18
+
+### Patch Changes
+
+- Updated dependencies. ([#52560](https://github.com/expo/expo/pull/52560))
+  - expo-crypto@58.0.8
+  - expo-constants@58.0.16
+  - expo-linking@58.0.17
+
 ## 58.0.17
 
 ### Patch Changes
